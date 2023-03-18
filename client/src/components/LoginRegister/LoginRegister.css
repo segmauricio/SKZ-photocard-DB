@@ -1,0 +1,13 @@
+.login-body{
+    height: calc(93vh);
+    width: 100%;
+    background-size: cover;
+    background-position: center top;
+}
+.login-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

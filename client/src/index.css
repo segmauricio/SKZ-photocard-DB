@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #606060;
+}
+
+body{
+  height: calc(93vh);
+  width: 100%;
+  background-image: url("https://img.freepik.com/free-vector/abstract-background-with-monochrome-low-poly-design_1048-14453.jpg");
+  background-size: cover;
+  background-position: center top;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

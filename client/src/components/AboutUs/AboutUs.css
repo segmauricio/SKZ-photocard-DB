@@ -1,0 +1,44 @@
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.aboutUs-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.aboutUs-card {
+  width: 360px;
+  height: 400px;
+  margin: 20px;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 2);
+  border-radius: 4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.aboutUs-titles {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.aboutUs-text {
+  font-size: 16px;
+  color: #666;
+}
+.aboutUs-pic {
+  display: block;
+  height: auto;
+  max-width: 100px;
+}
+.links-container {
+  display: flex;
+  flex-direction: row;
+  width: inherit;
+  justify-content: space-evenly;
+}
