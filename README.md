@@ -10,13 +10,17 @@ To get started with the project, you can follow these steps:
 ```bash
   git clone https://github.com/segmauricio/SKZ-photocard-DB.git
 ```
-- Install the dependencies:
+- Install the dependencies on both server and client:
 ```
 npm install
 ```
 - Start the server:
 ```
 nodemon server.js
+```
+- Start the client:
+```
+npm start
 ```
 The server should be running on http://localhost:8000.
 
@@ -53,4 +57,5 @@ git push origin my-new-feature
  - [Multer](https://sweetalert2.github.io)
 ## 
 Feel free to customize this Read Me file based on your specific needs and project requirements. Good luck with your project!
+
 
