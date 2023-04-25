@@ -37,7 +37,7 @@ git checkout -b your-new-feature
 ```
 - Make your changes and commit them:
 ```
-git commit -am 'Add some feature'
+git commit -m 'Add some feature'
 ```
 - Push the changes to your branch:
 ```
@@ -56,6 +56,5 @@ git push origin my-new-feature
  - [SweetAlert2](https://sweetalert2.github.io)
  - [Multer](https://sweetalert2.github.io)
 ## 
-Feel free to customize this Read Me file based on your specific needs and project requirements. Good luck with your project!
 
 
